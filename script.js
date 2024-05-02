@@ -20,5 +20,3 @@ function convertToRoman(num) {
 
     return roman;
 }
-
-console.log(convertToRoman(36)); // Output: XXXVI
